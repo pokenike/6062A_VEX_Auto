@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       Charley                                                   */
+/*    Author:       Charley Moua                                              */
 /*    Created:      1/5/2026, 9:27:40 PM                                      */
 /*    Description:  V5 project                                                */
 /*                                                                            */
